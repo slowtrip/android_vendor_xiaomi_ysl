@@ -338,7 +338,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libbccQTI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbccQTI.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libbluetooth_audio_session_qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbluetooth_audio_session_qti.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30_bltlib.so \
-    vendor/xiaomi/ysl/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_imx486_ofilm_cn_i_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_imx486_ofilm_cn_i_common.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_imx486_ofilm_cn_i_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_imx486_ofilm_cn_i_cpp_hfr_120.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libchromatix_ysl_imx486_ofilm_cn_i_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ysl_imx486_ofilm_cn_i_cpp_hfr_60.so \
