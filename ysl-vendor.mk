@@ -1219,6 +1219,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libarcsoft_beautyshot_exin \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     libthermalclient \
     FingerprintExtensionService \
     vendor.display.color@1.0 \
