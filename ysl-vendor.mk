@@ -88,7 +88,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libMiWatermark.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMiWatermark.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libXMFD_AgeGender.so:$(TARGET_COPY_OUT_VENDOR)/lib/libXMFD_AgeGender.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/lib_lowlight.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_lowlight.so \
-    vendor/xiaomi/ysl/proprietary/vendor/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so \
+    vendor/xiaomi/ysl/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
+    vendor/xiaomi/ysl/proprietary/vendor/lib/libDiracAPI_SHARED.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDiracAPI_SHARED.so \
+    vendor/xiaomi/ysl/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
+ 	vendor/xiaomi/ysl/proprietary/vendor/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ysl_imx486_ofilm_india_i_dw9714v.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libactuator_ysl_ov12a10_sunny_ii_dw9714v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ysl_ov12a10_sunny_ii_dw9714v.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beautyshot.so \
     vendor/xiaomi/ysl/proprietary/vendor/lib/libarcsoft_dualcam_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus.so \
